@@ -1,4 +1,6 @@
-## Etaletai Records
+---
+title: Etaletai Records
+---
 
 From here, you'll find basic profiles and links for the musicians under Etaletai Records.
 
