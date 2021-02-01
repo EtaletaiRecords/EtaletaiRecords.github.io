@@ -10,7 +10,7 @@ title: Etaletai Records
 
 ### Artists We Like
 
-[Nikki Grace](./)
+[Nikki Grace](#)
 
 ---
 etaletai@pm.me
