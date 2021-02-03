@@ -3,11 +3,13 @@ layout: default
 title: BRDX 1 7 021
 ---
 
-<iframe id='AmazonMusicEmbedB08TM5WY2D' src='https://music.amazon.com/embed/B08TM5WY2D/?id=LOlKuc8LZI&marketplaceId=ATVPDKIKX0DER&musicTerritory=US' width='100%' height='550px' style='border:1px solid rgba(0, 0, 0, 0.12);max-width:'></iframe>
-
-
 ## Albums
-<iframe id='AmazonMusicEmbedB08TM4KL3L' src='https://music.amazon.com/embed/B08TM4KL3L/?id=BWi3OmNHtQ&marketplaceId=ATVPDKIKX0DER&musicTerritory=US' width='100%' height='550px' style='border:1px solid rgba(0, 0, 0, 0.12);max-width:'></iframe>
+
+###1 7 021
+- [Apple Music](https://music.apple.com/us/album/1-7-021-ep/1550033924?uo=4)
+- [Deezer](https://www.deezer.com/album/202366982?utm_source=deezer&utm_content=album-202366982&utm_term=0_1611472309&utm_medium=web)
+- [Spotify](https://play.spotify.com/album/2f0zqOmg8yORjLGxGRpwKF)
+- [YouTube](https://www.youtube.com/results?search_query=%22BRDX+1+7+021%22)
 
 ---
 Producer: [Casey Parker](etaletai@pm.me)
