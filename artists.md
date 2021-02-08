@@ -2,15 +2,17 @@
 title: Etaletai Records
 ---
 
-### Our Artists
+#### Our Artists
 
-[BRDX 1 7 021](./artists/brdx17021)
+[```BRDX 1 7 021```](./artists/brdx17021)
+
+[```ETALETAI```](#)
+
+
+#### Artists We Like
+
+[```Nikki Grace```](https://github.com/nikkigraceofficial)
 
 ---
-
-### Artists We Like
-
-[Nikki Grace](https://github.com/nikkigraceofficial)
-
----
-etaletai@pm.me
+#### Contact
+```etaletai@pm.me```
